@@ -1,10 +1,12 @@
 ### Hi there i'm Marcilio Victor 👋
+</br>
 
 I’m a software developer who is passionate about build lots of demos and open-source projects.
 Some tecnologies I enjoy working with Javascript Vanilla, Typescript, Angular, React, NodeJS, GraphQL and more ⚡.
 
 
 <div style="padding: 16px; margin-top: 15px;">
+<br>  
   <div style="display: flex; flex-direction: row;">
     <img align="center" alt="italobarrosme-NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
     <img align="center" alt="italobarrosme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
@@ -21,9 +23,10 @@ Some tecnologies I enjoy working with Javascript Vanilla, Typescript, Angular, R
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contentMvds&layout=compact&langs_count=4&theme=jolly"/>
     </a>
   </div>
+<br>
 </div>
 
-  _at least 1% update per day_
+  *_at least 1% update per day_*
 
 
 <!--
