@@ -13,7 +13,7 @@ Some tecnologies I enjoy working with Javascript Vanilla, Typescript, Angular, R
     <img align="center" alt="italobarrosme-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
     <img align="center" alt="italobarrosme-Graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"/>
     <img align="center" alt="italobarrosme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/nodejs/nodejs.org/main/public/static/images/logo-hexagon.svg"/>
+    <img align="center" alt="Node.js" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
     <img align="center" alt="italobarrosme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img align="center" alt="italobarrosme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   </div>
