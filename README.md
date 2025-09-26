@@ -20,7 +20,7 @@ Some tecnologies I enjoy working with Javascript Vanilla, Typescript, Angular, R
   <br>
   <div style="margin-top:15px;">
     <a href="https://github.com/contentMvds">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contentMvds&layout=compact&langs_count=8&theme=jolly"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contentMvds&layout=compact&langs_count=6&theme=jolly"/>
     </a>
   </div>
 <br>
